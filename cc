@@ -1,2 +1,1 @@
-file c content
-delete content
+empty file
